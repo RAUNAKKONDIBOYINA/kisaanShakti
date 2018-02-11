@@ -1,1 +1,3 @@
 # kisaanShakti
+
+This is a portal for the farmers to access all the required knowledge at one place. APIs have been used for the purpose of providing the required data like weather API, Current Market Value of Commodities API, Available Government Schemes API, Cold Storages API. Farm Land Optimization experience of various farmers can be stored and displayed in the form of Pie diagram which is easily understood by the farmer. Reverse image API has been used to upload the images of crop diseases and get the necessary data from the internet. Transport facilities will also be provided through another link
